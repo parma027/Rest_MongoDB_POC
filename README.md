@@ -1,4 +1,4 @@
-# TargetRestPOC
+# Rest_MongoDB_POC
 
 We need MongoDB installed and used Spring Boot and Spring Data for this POC.
 Used JSON Simple API to parse json string to find product name.
